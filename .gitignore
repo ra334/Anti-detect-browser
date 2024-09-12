@@ -3,3 +3,4 @@ node_modules
 profile
 test.js
 proxy.txt
+*.sqlite
